@@ -1,5 +1,6 @@
 # MeetApps Up
 > Just learning NextJs... I'm at the part where you deploy it.
+
 > Done! [Here's](https://kochez-meetups-web-app.vercel.app/) the link. Don't fill my DB with junk and tell me incase you find any.
 
 ## Technologies
